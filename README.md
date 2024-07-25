@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/avanthinaidu/leetcode/tree/master/0002-add-two-numbers) |
+| [2645-pass-the-pillow](https://github.com/avanthinaidu/leetcode/tree/master/2645-pass-the-pillow) |
 ## Recursion
 |  |
 | ------- |
@@ -29,4 +30,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/avanthinaidu/leetcode/tree/master/0838-design-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/avanthinaidu/leetcode/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
