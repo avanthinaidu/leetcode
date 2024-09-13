@@ -49,4 +49,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/avanthinaidu/leetcode/tree/master/0344-reverse-string) |
+## Array
+|  |
+| ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/avanthinaidu/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/avanthinaidu/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/avanthinaidu/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 <!---LeetCode Topics End-->
