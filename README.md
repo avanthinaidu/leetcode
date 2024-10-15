@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/avanthinaidu/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/avanthinaidu/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/avanthinaidu/leetcode/tree/master/0344-reverse-string) |
+| [3195-separate-black-and-white-balls](https://github.com/avanthinaidu/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Design
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/avanthinaidu/leetcode/tree/master/0344-reverse-string) |
+| [3195-separate-black-and-white-balls](https://github.com/avanthinaidu/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Array
 |  |
 | ------- |
@@ -61,4 +63,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/avanthinaidu/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+## Greedy
+|  |
+| ------- |
+| [3195-separate-black-and-white-balls](https://github.com/avanthinaidu/leetcode/tree/master/3195-separate-black-and-white-balls) |
 <!---LeetCode Topics End-->
