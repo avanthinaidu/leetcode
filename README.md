@@ -91,4 +91,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0051-n-queens](https://github.com/avanthinaidu/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/avanthinaidu/leetcode/tree/master/0052-n-queens-ii) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/avanthinaidu/leetcode/tree/master/0098-validate-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/avanthinaidu/leetcode/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/avanthinaidu/leetcode/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/avanthinaidu/leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
