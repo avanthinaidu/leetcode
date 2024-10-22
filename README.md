@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/avanthinaidu/leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/avanthinaidu/leetcode/tree/master/0051-n-queens) |
 | [0120-triangle](https://github.com/avanthinaidu/leetcode/tree/master/0120-triangle) |
+| [0134-gas-station](https://github.com/avanthinaidu/leetcode/tree/master/0134-gas-station) |
 | [1435-xor-queries-of-a-subarray](https://github.com/avanthinaidu/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 ## Bit Manipulation
 |  |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/avanthinaidu/leetcode/tree/master/0134-gas-station) |
 | [3195-separate-black-and-white-balls](https://github.com/avanthinaidu/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Dynamic Programming
 |  |
