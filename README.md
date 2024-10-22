@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/avanthinaidu/leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/avanthinaidu/leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/avanthinaidu/leetcode/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/avanthinaidu/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/avanthinaidu/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/avanthinaidu/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/avanthinaidu/leetcode/tree/master/0344-reverse-string) |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/avanthinaidu/leetcode/tree/master/0010-regular-expression-matching) |
+| [0151-reverse-words-in-a-string](https://github.com/avanthinaidu/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/avanthinaidu/leetcode/tree/master/0344-reverse-string) |
 | [3195-separate-black-and-white-balls](https://github.com/avanthinaidu/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Array
