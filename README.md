@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/avanthinaidu/leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/avanthinaidu/leetcode/tree/master/0051-n-queens) |
+| [0120-triangle](https://github.com/avanthinaidu/leetcode/tree/master/0120-triangle) |
 | [1435-xor-queries-of-a-subarray](https://github.com/avanthinaidu/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 ## Bit Manipulation
 |  |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0010-regular-expression-matching](https://github.com/avanthinaidu/leetcode/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/avanthinaidu/leetcode/tree/master/0042-trapping-rain-water) |
+| [0120-triangle](https://github.com/avanthinaidu/leetcode/tree/master/0120-triangle) |
 ## Monotonic Stack
 |  |
 | ------- |
