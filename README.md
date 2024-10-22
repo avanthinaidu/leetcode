@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/avanthinaidu/leetcode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/avanthinaidu/leetcode/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/avanthinaidu/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/avanthinaidu/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/avanthinaidu/leetcode/tree/master/0010-regular-expression-matching) |
 | [0344-reverse-string](https://github.com/avanthinaidu/leetcode/tree/master/0344-reverse-string) |
 | [3195-separate-black-and-white-balls](https://github.com/avanthinaidu/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Array
@@ -67,4 +69,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3195-separate-black-and-white-balls](https://github.com/avanthinaidu/leetcode/tree/master/3195-separate-black-and-white-balls) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/avanthinaidu/leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
