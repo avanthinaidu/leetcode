@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/avanthinaidu/leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/avanthinaidu/leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/avanthinaidu/leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/avanthinaidu/leetcode/tree/master/0148-sort-list) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/avanthinaidu/leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/avanthinaidu/leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/avanthinaidu/leetcode/tree/master/0051-n-queens) |
 | [0120-triangle](https://github.com/avanthinaidu/leetcode/tree/master/0120-triangle) |
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/avanthinaidu/leetcode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/avanthinaidu/leetcode/tree/master/0134-gas-station) |
 | [3195-separate-black-and-white-balls](https://github.com/avanthinaidu/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Dynamic Programming
