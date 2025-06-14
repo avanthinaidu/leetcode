@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/avanthinaidu/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0782-jewels-and-stones](https://github.com/avanthinaidu/leetcode/tree/master/0782-jewels-and-stones) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0010-regular-expression-matching](https://github.com/avanthinaidu/leetcode/tree/master/0010-regular-expression-matching) |
 | [0151-reverse-words-in-a-string](https://github.com/avanthinaidu/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/avanthinaidu/leetcode/tree/master/0344-reverse-string) |
+| [0782-jewels-and-stones](https://github.com/avanthinaidu/leetcode/tree/master/0782-jewels-and-stones) |
 | [3195-separate-black-and-white-balls](https://github.com/avanthinaidu/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Array
 |  |
