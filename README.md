@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/avanthinaidu/leetcode/tree/master/0051-n-queens) |
 | [0120-triangle](https://github.com/avanthinaidu/leetcode/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/avanthinaidu/leetcode/tree/master/0134-gas-station) |
+| [0907-koko-eating-bananas](https://github.com/avanthinaidu/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1435-xor-queries-of-a-subarray](https://github.com/avanthinaidu/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 ## Bit Manipulation
 |  |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/avanthinaidu/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/avanthinaidu/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/avanthinaidu/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0907-koko-eating-bananas](https://github.com/avanthinaidu/leetcode/tree/master/0907-koko-eating-bananas) |
 ## Binary Tree
 |  |
 | ------- |
