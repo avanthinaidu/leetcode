@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0024-swap-nodes-in-pairs](https://github.com/avanthinaidu/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/avanthinaidu/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/avanthinaidu/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0142-linked-list-cycle-ii](https://github.com/avanthinaidu/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/avanthinaidu/leetcode/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/avanthinaidu/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/avanthinaidu/leetcode/tree/master/0148-sort-list) |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/avanthinaidu/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/avanthinaidu/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0782-jewels-and-stones](https://github.com/avanthinaidu/leetcode/tree/master/0782-jewels-and-stones) |
 ## Two Pointers
@@ -43,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/avanthinaidu/leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/avanthinaidu/leetcode/tree/master/0042-trapping-rain-water) |
+| [0142-linked-list-cycle-ii](https://github.com/avanthinaidu/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/avanthinaidu/leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/avanthinaidu/leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/avanthinaidu/leetcode/tree/master/0151-reverse-words-in-a-string) |
